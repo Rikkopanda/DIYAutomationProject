@@ -1,0 +1,11 @@
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\bin\Debug\Automatiseer Systeem App 1.exe.config
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\bin\Debug\Automatiseer Systeem App 1.exe
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\bin\Debug\Automatiseer Systeem App 1.pdb
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer Systeem App 1.csproj.AssemblyReference.cache
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer Systeem App 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer_Systeem_App_1.Form1.resources
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer_Systeem_App_1.Properties.Resources.resources
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer Systeem App 1.csproj.GenerateResource.cache
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer Systeem App 1.csproj.CoreCompileInputs.cache
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer Systeem App 1.exe
+C:\Users\rikve\Documents\Visual Studio 2022\Projects\Automatiseer Systeem App 1\obj\Debug\Automatiseer Systeem App 1.pdb
